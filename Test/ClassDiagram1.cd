@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Test.AdminForm">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <InheritanceLine Type="Test.Forms.CustomForm" FixedToPoint="true">
+      <Path>
+        <Point X="8" Y="6.188" />
+        <Point X="8.048" Y="6.188" />
+        <Point X="8.048" Y="22.867" />
+        <Point X="1.188" Y="22.867" />
+        <Point X="1.188" Y="20.415" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>JCQhAQCAEmQEAEEQQACFBCACCAGUEASoVIBQAJkAIEA=</HashCode>
+      <FileName>Forms\AdminForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.AuthenticationForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAYAAAAACAEAAgBAAKAABACAAIAAoSAAEAAAAAQAAI=</HashCode>
+      <FileName>Forms\AuthenticationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.AuthorizationForm">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEgAAAAAACAAAAAAQADCAAACQAARAQAAAIAAQIBEAAg=</HashCode>
+      <FileName>Forms\AuthorizationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.RegistrationForm">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQBAQCABCQEQElAQAHMBAISIACUFAQAFAUEAMNAiUQ=</HashCode>
+      <FileName>Forms\RegistrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.RestoreForm">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAAAAAACAAJACAIAAAAAAAAAAAIAIAAA=</HashCode>
+      <FileName>Forms\RestoreForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Forms.InfoForm">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAQAACAAAACACAAAAAQAAIQAIAAAAA=</HashCode>
+      <FileName>Forms\InfoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.DialogForm">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAKGAAEAAABCAAgACACACAAAAAQIQBEBAAAA=</HashCode>
+      <FileName>Forms\DialogForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Forms.CustomForm">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAACAAAAAQABCAAAACADAAAAgAAAJQAAAAEAA=</HashCode>
+      <FileName>Forms\CustomForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.MainForm">
+    <Position X="2" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hXxBNCKEGOFABABCJAiJ9DUCQIIgSaBaAWpBQomAEEQ=</HashCode>
+      <FileName>Forms\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Forms.ChangePasswordForm">
+    <Position X="5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAAAAEACACAEAARACABAACACAAAMAAAAIQAAAAAAA=</HashCode>
+      <FileName>Forms\ChangePasswordForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.SettingsForm">
+    <Position X="6.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAgi0AAAgAAASAAQACEAAAAUAgAggUAIaAAEA=</HashCode>
+      <FileName>Forms\SettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Logic.EmailWorker">
+    <Position X="3.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAABAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Logic\EmailWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Logic.FtpWebWorker">
+    <Position X="3.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAIABIAFAAAAAAEACAEAAAA=</HashCode>
+      <FileName>Logic\FtpWebWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Logic.LocalStorageWorker">
+    <Position X="5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAgAFAAAEAAAAAAAAEAAAAAAAAAAAAIAAACAkABAA=</HashCode>
+      <FileName>Logic\LocalStorageWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Logic.PasswordWorker">
+    <Position X="6.5" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Logic\PasswordWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Models.Config">
+    <Position X="6.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBAAAAAAAAAAAAACAAACAACACAAAAAAAAA=</HashCode>
+      <FileName>Models\Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Settings">
+    <Position X="3.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAABAAAEEAAgAAAAAAAAAAQAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Models.StorageFile">
+    <Position X="5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAEABAAAARAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\StorageFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Models.User">
+    <Position X="6.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAAAAQACAAAAAACAAAQIAAAAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Logic.CustomBox">
+    <Position X="3.5" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Validation.InternetConnetion">
+    <Position X="5" Y="21" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InternetConnetion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Program">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.Reflection">
+    <Position X="3.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAACAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Reflection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test.CheckBoxControl.ControlCB">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiJAAAAAAAAAAAAAAAgAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CheckBoxControl\ControlCB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Test.TypeButton">
+    <Position X="5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAACAABAAAAAAA=</HashCode>
+      <FileName>Forms\DialogForm.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

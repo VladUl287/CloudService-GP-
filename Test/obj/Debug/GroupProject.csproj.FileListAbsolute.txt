@@ -1,0 +1,131 @@
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.AuthorizationForm.resources
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.AuthenticationForm.resources
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.MainForm.resources
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.RegistrationForm.resources
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.RestoreForm.resources
+D:\Тестовый дизайн\Test\Test\obj\Debug\GroupProject.csproj.GenerateResource.cache
+D:\Тестовый дизайн\Test\Test\obj\Debug\GroupProject.csproj.CoreCompileInputs.cache
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.exe
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.pdb
+D:\Тестовый дизайн\Test\Test\bin\Debug\Test.exe.config
+D:\Тестовый дизайн\Test\Test\bin\Debug\Test.exe
+D:\Тестовый дизайн\Test\Test\bin\Debug\Test.pdb
+D:\Тестовый дизайн\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\Google.Protobuf.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\K4os.Compression.LZ4.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\K4os.Hash.xxHash.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\MySql.Data.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\PasswordGenerator.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\System.Buffers.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\System.Memory.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\System.Numerics.Vectors.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\Ubiety.Dns.Core.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\Zstandard.Net.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\Google.Protobuf.pdb
+D:\Тестовый дизайн\Test\Test\bin\Debug\Google.Protobuf.xml
+D:\Тестовый дизайн\Test\Test\bin\Debug\K4os.Compression.LZ4.xml
+D:\Тестовый дизайн\Test\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Тестовый дизайн\Test\Test\bin\Debug\K4os.Hash.xxHash.xml
+D:\Тестовый дизайн\Test\Test\bin\Debug\MySql.Data.xml
+D:\Тестовый дизайн\Test\Test\bin\Debug\System.Buffers.xml
+D:\Тестовый дизайн\Test\Test\bin\Debug\System.Memory.xml
+D:\Тестовый дизайн\Test\Test\bin\Debug\System.Numerics.Vectors.xml
+D:\Тестовый дизайн\Test\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Тестовый дизайн\Test\Test\bin\Debug\Dapper.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\Dapper.xml
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.AdminForm.resources
+D:\Тестовый дизайн\Test\Test\bin\Debug\DotNetZip.dll
+D:\Тестовый дизайн\Test\Test\bin\Debug\DotNetZip.pdb
+D:\Тестовый дизайн\Test\Test\bin\Debug\DotNetZip.xml
+D:\Тестовый дизайн\Test\Test\obj\Debug\GroupProject.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Test\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\Test\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\Test\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\Dapper.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\DotNetZip.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\PasswordGenerator.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\Dapper.xml
+C:\Users\User\Downloads\Test\Test\bin\Debug\DotNetZip.pdb
+C:\Users\User\Downloads\Test\Test\bin\Debug\DotNetZip.xml
+C:\Users\User\Downloads\Test\Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\Test\Test\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\Test\Test\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\Test\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\Test\Test\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\Test\Test\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\Test\Test\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\Test\Test\obj\Debug\Test.AdminForm.resources
+C:\Users\User\Downloads\Test\Test\obj\Debug\Test.AuthorizationForm.resources
+C:\Users\User\Downloads\Test\Test\obj\Debug\Test.AuthenticationForm.resources
+C:\Users\User\Downloads\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\User\Downloads\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\Test\Test\obj\Debug\Test.RegistrationForm.resources
+C:\Users\User\Downloads\Test\Test\obj\Debug\Test.RestoreForm.resources
+C:\Users\User\Downloads\Test\Test\obj\Debug\GroupProject.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Test\Test\obj\Debug\GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Test\Test\obj\Debug\GroupProject.csproj.CopyComplete
+C:\Users\User\Downloads\Test\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\Test\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\Test\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\ZstdNet.dll
+C:\Users\User\Downloads\Test\Test\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\Test\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\Test\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GroupProject\Test\bin\Debug\Test.exe.config
+D:\GroupProject\Test\bin\Debug\Test.exe
+D:\GroupProject\Test\bin\Debug\Test.pdb
+D:\GroupProject\Test\bin\Debug\BouncyCastle.Crypto.dll
+D:\GroupProject\Test\bin\Debug\Dapper.dll
+D:\GroupProject\Test\bin\Debug\DotNetZip.dll
+D:\GroupProject\Test\bin\Debug\Google.Protobuf.dll
+D:\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.dll
+D:\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GroupProject\Test\bin\Debug\K4os.Hash.xxHash.dll
+D:\GroupProject\Test\bin\Debug\MySql.Data.dll
+D:\GroupProject\Test\bin\Debug\PasswordGenerator.dll
+D:\GroupProject\Test\bin\Debug\System.Buffers.dll
+D:\GroupProject\Test\bin\Debug\System.Memory.dll
+D:\GroupProject\Test\bin\Debug\System.Numerics.Vectors.dll
+D:\GroupProject\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GroupProject\Test\bin\Debug\Ubiety.Dns.Core.dll
+D:\GroupProject\Test\bin\Debug\ZstdNet.dll
+D:\GroupProject\Test\bin\Debug\Dapper.xml
+D:\GroupProject\Test\bin\Debug\DotNetZip.pdb
+D:\GroupProject\Test\bin\Debug\DotNetZip.xml
+D:\GroupProject\Test\bin\Debug\Google.Protobuf.pdb
+D:\GroupProject\Test\bin\Debug\Google.Protobuf.xml
+D:\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.xml
+D:\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GroupProject\Test\bin\Debug\K4os.Hash.xxHash.xml
+D:\GroupProject\Test\bin\Debug\MySql.Data.xml
+D:\GroupProject\Test\bin\Debug\System.Buffers.xml
+D:\GroupProject\Test\bin\Debug\System.Memory.xml
+D:\GroupProject\Test\bin\Debug\System.Numerics.Vectors.xml
+D:\GroupProject\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GroupProject\Test\obj\Debug\Test.AdminForm.resources
+D:\GroupProject\Test\obj\Debug\Test.AuthorizationForm.resources
+D:\GroupProject\Test\obj\Debug\Test.AuthenticationForm.resources
+D:\GroupProject\Test\obj\Debug\Test.MainForm.resources
+D:\GroupProject\Test\obj\Debug\Test.Properties.Resources.resources
+D:\GroupProject\Test\obj\Debug\Test.RegistrationForm.resources
+D:\GroupProject\Test\obj\Debug\Test.RestoreForm.resources
+D:\GroupProject\Test\obj\Debug\GroupProject.csproj.GenerateResource.cache
+D:\GroupProject\Test\obj\Debug\GroupProject.csproj.CoreCompileInputs.cache
+D:\GroupProject\Test\obj\Debug\Test.exe
+D:\GroupProject\Test\obj\Debug\Test.pdb
+D:\GroupProject\Test\bin\Debug\DevExpress.Data.v21.1.dll
+D:\GroupProject\Test\bin\Debug\DevExpress.Data.v21.1.xml
+D:\GroupProject\Test\obj\Debug\GroupProject.csproj.CopyComplete

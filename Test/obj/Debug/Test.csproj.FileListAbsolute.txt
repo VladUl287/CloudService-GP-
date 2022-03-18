@@ -1,0 +1,13 @@
+D:\Тестовый дизайн\Test\Test\bin\Debug\Test.exe.config
+D:\Тестовый дизайн\Test\Test\bin\Debug\Test.exe
+D:\Тестовый дизайн\Test\Test\bin\Debug\Test.pdb
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.Form1.resources
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.exe
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.pdb
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.AuthorizationForm.resources
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.RegistrationForm.resources
+D:\Тестовый дизайн\Test\Test\obj\Debug\Test.RestoreForm.resources

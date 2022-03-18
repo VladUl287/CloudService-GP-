@@ -1,0 +1,905 @@
+D:\GroupProject\Test\bin\Debug\Test.exe.config
+D:\GroupProject\Test\bin\Debug\Test.exe
+D:\GroupProject\Test\bin\Debug\Test.pdb
+D:\GroupProject\Test\bin\Debug\BouncyCastle.Crypto.dll
+D:\GroupProject\Test\bin\Debug\Dapper.dll
+D:\GroupProject\Test\bin\Debug\DevExpress.Data.v21.1.dll
+D:\GroupProject\Test\bin\Debug\DotNetZip.dll
+D:\GroupProject\Test\bin\Debug\Google.Protobuf.dll
+D:\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.dll
+D:\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GroupProject\Test\bin\Debug\K4os.Hash.xxHash.dll
+D:\GroupProject\Test\bin\Debug\MySql.Data.dll
+D:\GroupProject\Test\bin\Debug\PasswordGenerator.dll
+D:\GroupProject\Test\bin\Debug\System.Buffers.dll
+D:\GroupProject\Test\bin\Debug\System.Memory.dll
+D:\GroupProject\Test\bin\Debug\System.Numerics.Vectors.dll
+D:\GroupProject\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GroupProject\Test\bin\Debug\Ubiety.Dns.Core.dll
+D:\GroupProject\Test\bin\Debug\ZstdNet.dll
+D:\GroupProject\Test\bin\Debug\Dapper.xml
+D:\GroupProject\Test\bin\Debug\DevExpress.Data.v21.1.xml
+D:\GroupProject\Test\bin\Debug\DotNetZip.pdb
+D:\GroupProject\Test\bin\Debug\DotNetZip.xml
+D:\GroupProject\Test\bin\Debug\Google.Protobuf.pdb
+D:\GroupProject\Test\bin\Debug\Google.Protobuf.xml
+D:\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.xml
+D:\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GroupProject\Test\bin\Debug\K4os.Hash.xxHash.xml
+D:\GroupProject\Test\bin\Debug\MySql.Data.xml
+D:\GroupProject\Test\bin\Debug\System.Buffers.xml
+D:\GroupProject\Test\bin\Debug\System.Memory.xml
+D:\GroupProject\Test\bin\Debug\System.Numerics.Vectors.xml
+D:\GroupProject\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GroupProject\Test\obj\Debug\Test.AdminForm.resources
+D:\GroupProject\Test\obj\Debug\Test.AuthorizationForm.resources
+D:\GroupProject\Test\obj\Debug\Test.AuthenticationForm.resources
+D:\GroupProject\Test\obj\Debug\Test.MainForm.resources
+D:\GroupProject\Test\obj\Debug\Test.Properties.Resources.resources
+D:\GroupProject\Test\obj\Debug\Test.RegistrationForm.resources
+D:\GroupProject\Test\obj\Debug\Test.RestoreForm.resources
+D:\GroupProject\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+D:\GroupProject\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+D:\GroupProject\Test\obj\Debug\Test.exe
+D:\GroupProject\Test\obj\Debug\Test.pdb
+D:\GroupProject\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\Dapper.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\DotNetZip.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\PasswordGenerator.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\ZstdNet.dll
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\Dapper.xml
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\DotNetZip.pdb
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\DotNetZip.xml
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\obj\Debug\Test.AdminForm.resources
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\obj\Debug\Test.AuthorizationForm.resources
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\obj\Debug\Test.AuthenticationForm.resources
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\obj\Debug\Test.MainForm.resources
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\obj\Debug\Test.RegistrationForm.resources
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\obj\Debug\Test.RestoreForm.resources
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV4\GroupProject\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\Dapper.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\DotNetZip.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\PasswordGenerator.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\ZstdNet.dll
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\Dapper.xml
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\DotNetZip.pdb
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\DotNetZip.xml
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\CloudStoragePOU.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\Test.AdminForm.resources
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\Test.AuthorizationForm.resources
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\Test.AuthenticationForm.resources
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\Test.MainForm.resources
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\Test.RegistrationForm.resources
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\Test.RestoreForm.resources
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV4 — копия\GroupProject\Test\obj\Debug\Test.pdb
+D:\CloudStoragePOU\Test\bin\Debug\Test.exe.config
+D:\CloudStoragePOU\Test\bin\Debug\Test.exe
+D:\CloudStoragePOU\Test\bin\Debug\Test.pdb
+D:\CloudStoragePOU\Test\bin\Debug\BouncyCastle.Crypto.dll
+D:\CloudStoragePOU\Test\bin\Debug\Dapper.dll
+D:\CloudStoragePOU\Test\bin\Debug\DevExpress.Data.v21.2.dll
+D:\CloudStoragePOU\Test\bin\Debug\DotNetZip.dll
+D:\CloudStoragePOU\Test\bin\Debug\Google.Protobuf.dll
+D:\CloudStoragePOU\Test\bin\Debug\K4os.Compression.LZ4.dll
+D:\CloudStoragePOU\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\CloudStoragePOU\Test\bin\Debug\K4os.Hash.xxHash.dll
+D:\CloudStoragePOU\Test\bin\Debug\MySql.Data.dll
+D:\CloudStoragePOU\Test\bin\Debug\PasswordGenerator.dll
+D:\CloudStoragePOU\Test\bin\Debug\System.Buffers.dll
+D:\CloudStoragePOU\Test\bin\Debug\System.Memory.dll
+D:\CloudStoragePOU\Test\bin\Debug\System.Numerics.Vectors.dll
+D:\CloudStoragePOU\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CloudStoragePOU\Test\bin\Debug\Ubiety.Dns.Core.dll
+D:\CloudStoragePOU\Test\bin\Debug\ZstdNet.dll
+D:\CloudStoragePOU\Test\bin\Debug\Dapper.xml
+D:\CloudStoragePOU\Test\bin\Debug\DevExpress.Data.v21.2.xml
+D:\CloudStoragePOU\Test\bin\Debug\DotNetZip.pdb
+D:\CloudStoragePOU\Test\bin\Debug\DotNetZip.xml
+D:\CloudStoragePOU\Test\bin\Debug\Google.Protobuf.pdb
+D:\CloudStoragePOU\Test\bin\Debug\Google.Protobuf.xml
+D:\CloudStoragePOU\Test\bin\Debug\K4os.Compression.LZ4.xml
+D:\CloudStoragePOU\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\CloudStoragePOU\Test\bin\Debug\K4os.Hash.xxHash.xml
+D:\CloudStoragePOU\Test\bin\Debug\MySql.Data.xml
+D:\CloudStoragePOU\Test\bin\Debug\System.Buffers.xml
+D:\CloudStoragePOU\Test\bin\Debug\System.Memory.xml
+D:\CloudStoragePOU\Test\bin\Debug\System.Numerics.Vectors.xml
+D:\CloudStoragePOU\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CloudStoragePOU\Test\obj\Debug\Test.AdminForm.resources
+D:\CloudStoragePOU\Test\obj\Debug\Test.AuthorizationForm.resources
+D:\CloudStoragePOU\Test\obj\Debug\Test.AuthenticationForm.resources
+D:\CloudStoragePOU\Test\obj\Debug\Test.MainForm.resources
+D:\CloudStoragePOU\Test\obj\Debug\Test.Properties.Resources.resources
+D:\CloudStoragePOU\Test\obj\Debug\Test.RegistrationForm.resources
+D:\CloudStoragePOU\Test\obj\Debug\Test.RestoreForm.resources
+D:\CloudStoragePOU\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+D:\CloudStoragePOU\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+D:\CloudStoragePOU\Test\obj\Debug\Test.exe
+D:\CloudStoragePOU\Test\obj\Debug\Test.pdb
+D:\CloudStoragePOU\Test\obj\Debug\Test.DialogForm.resources
+D:\CloudStoragePOU\Test\bin\Debug\System.ComponentModel.Annotations.dll
+D:\CloudStoragePOU\Test\obj\Debug\CloudStoragePOU.csproj.AssemblyReference.cache
+D:\CloudStoragePOU\Test\obj\Debug\Test.SettingsForm.resources
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\Test.AdminForm.resources
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\Test.AuthorizationForm.resources
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\Test.AuthenticationForm.resources
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\Test.DialogForm.resources
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\Test.MainForm.resources
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\Test.RegistrationForm.resources
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\Test.RestoreForm.resources
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\Test.SettingsForm.resources
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\Dapper.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\DotNetZip.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\PasswordGenerator.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\ZstdNet.dll
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\Dapper.xml
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\DotNetZip.pdb
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\DotNetZip.xml
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\GroupProjectV8\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV8\Test\obj\Debug\CloudStoragePOU.csproj.AssemblyReference.cache
+D:\GroupProjectV9\Test\bin\Debug\Test.exe.config
+D:\GroupProjectV9\Test\bin\Debug\Test.exe
+D:\GroupProjectV9\Test\bin\Debug\Test.pdb
+D:\GroupProjectV9\Test\bin\Debug\BouncyCastle.Crypto.dll
+D:\GroupProjectV9\Test\bin\Debug\Dapper.dll
+D:\GroupProjectV9\Test\bin\Debug\DevExpress.Data.v21.2.dll
+D:\GroupProjectV9\Test\bin\Debug\DotNetZip.dll
+D:\GroupProjectV9\Test\bin\Debug\Google.Protobuf.dll
+D:\GroupProjectV9\Test\bin\Debug\K4os.Compression.LZ4.dll
+D:\GroupProjectV9\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GroupProjectV9\Test\bin\Debug\K4os.Hash.xxHash.dll
+D:\GroupProjectV9\Test\bin\Debug\MySql.Data.dll
+D:\GroupProjectV9\Test\bin\Debug\PasswordGenerator.dll
+D:\GroupProjectV9\Test\bin\Debug\System.Buffers.dll
+D:\GroupProjectV9\Test\bin\Debug\System.ComponentModel.Annotations.dll
+D:\GroupProjectV9\Test\bin\Debug\System.Memory.dll
+D:\GroupProjectV9\Test\bin\Debug\System.Numerics.Vectors.dll
+D:\GroupProjectV9\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GroupProjectV9\Test\bin\Debug\Ubiety.Dns.Core.dll
+D:\GroupProjectV9\Test\bin\Debug\ZstdNet.dll
+D:\GroupProjectV9\Test\bin\Debug\Dapper.xml
+D:\GroupProjectV9\Test\bin\Debug\DevExpress.Data.v21.2.xml
+D:\GroupProjectV9\Test\bin\Debug\DotNetZip.pdb
+D:\GroupProjectV9\Test\bin\Debug\DotNetZip.xml
+D:\GroupProjectV9\Test\bin\Debug\Google.Protobuf.pdb
+D:\GroupProjectV9\Test\bin\Debug\Google.Protobuf.xml
+D:\GroupProjectV9\Test\bin\Debug\K4os.Compression.LZ4.xml
+D:\GroupProjectV9\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GroupProjectV9\Test\bin\Debug\K4os.Hash.xxHash.xml
+D:\GroupProjectV9\Test\bin\Debug\MySql.Data.xml
+D:\GroupProjectV9\Test\bin\Debug\System.Buffers.xml
+D:\GroupProjectV9\Test\bin\Debug\System.Memory.xml
+D:\GroupProjectV9\Test\bin\Debug\System.Numerics.Vectors.xml
+D:\GroupProjectV9\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GroupProjectV9\Test\obj\Debug\CloudStoragePOU.csproj.AssemblyReference.cache
+D:\GroupProjectV9\Test\obj\Debug\Test.AdminForm.resources
+D:\GroupProjectV9\Test\obj\Debug\Test.AuthorizationForm.resources
+D:\GroupProjectV9\Test\obj\Debug\Test.AuthenticationForm.resources
+D:\GroupProjectV9\Test\obj\Debug\Test.DialogForm.resources
+D:\GroupProjectV9\Test\obj\Debug\Test.MainForm.resources
+D:\GroupProjectV9\Test\obj\Debug\Test.Properties.Resources.resources
+D:\GroupProjectV9\Test\obj\Debug\Test.RegistrationForm.resources
+D:\GroupProjectV9\Test\obj\Debug\Test.RestoreForm.resources
+D:\GroupProjectV9\Test\obj\Debug\Test.SettingsForm.resources
+D:\GroupProjectV9\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+D:\GroupProjectV9\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+D:\GroupProjectV9\Test\obj\Debug\Test.exe
+D:\GroupProjectV9\Test\obj\Debug\Test.pdb
+D:\GroupProjectV9 — копия\Test\bin\Debug\Test.exe.config
+D:\GroupProjectV9 — копия\Test\bin\Debug\Test.exe
+D:\GroupProjectV9 — копия\Test\bin\Debug\Test.pdb
+D:\GroupProjectV9 — копия\Test\bin\Debug\BouncyCastle.Crypto.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\Dapper.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\DevExpress.Data.v21.2.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\DotNetZip.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\Google.Protobuf.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\K4os.Compression.LZ4.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\K4os.Hash.xxHash.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\MySql.Data.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\PasswordGenerator.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\System.Buffers.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\System.ComponentModel.Annotations.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\System.Memory.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\System.Numerics.Vectors.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\Ubiety.Dns.Core.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\ZstdNet.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\Dapper.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\DevExpress.Data.v21.2.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\DotNetZip.pdb
+D:\GroupProjectV9 — копия\Test\bin\Debug\DotNetZip.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\Google.Protobuf.pdb
+D:\GroupProjectV9 — копия\Test\bin\Debug\Google.Protobuf.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\K4os.Compression.LZ4.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\K4os.Hash.xxHash.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\MySql.Data.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\System.Buffers.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\System.Memory.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\System.Numerics.Vectors.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GroupProjectV9 — копия\Test\obj\Debug\Test.AdminForm.resources
+D:\GroupProjectV9 — копия\Test\obj\Debug\Test.AuthorizationForm.resources
+D:\GroupProjectV9 — копия\Test\obj\Debug\Test.AuthenticationForm.resources
+D:\GroupProjectV9 — копия\Test\obj\Debug\Test.Forms.CustomForm.resources
+D:\GroupProjectV9 — копия\Test\obj\Debug\Test.DialogForm.resources
+D:\GroupProjectV9 — копия\Test\obj\Debug\Test.MainForm.resources
+D:\GroupProjectV9 — копия\Test\obj\Debug\Test.Properties.Resources.resources
+D:\GroupProjectV9 — копия\Test\obj\Debug\Test.RegistrationForm.resources
+D:\GroupProjectV9 — копия\Test\obj\Debug\Test.RestoreForm.resources
+D:\GroupProjectV9 — копия\Test\obj\Debug\Test.SettingsForm.resources
+D:\GroupProjectV9 — копия\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+D:\GroupProjectV9 — копия\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+D:\GroupProjectV9 — копия\Test\obj\Debug\Test.exe
+D:\GroupProjectV9 — копия\Test\obj\Debug\Test.pdb
+D:\GroupProjectV9 — копия\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\TPJ.Encrypt.dll
+D:\GroupProjectV9 — копия\Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\GroupProjectV9 — копия\Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\GroupProjectV9 — копия\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Dapper.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\DotNetZip.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\PasswordGenerator.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\TPJ.Encrypt.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\ZstdNet.dll
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Dapper.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\DotNetZip.pdb
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\DotNetZip.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\Test.AdminForm.resources
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\Test.AuthorizationForm.resources
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\Test.AuthenticationForm.resources
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\Test.Forms.CustomForm.resources
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\Test.DialogForm.resources
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\Test.MainForm.resources
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\Test.RegistrationForm.resources
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\Test.RestoreForm.resources
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\Test.SettingsForm.resources
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV11\Test\obj\Debug\CloudStoragePOU.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\Test.AdminForm.resources
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\Test.AuthorizationForm.resources
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\Test.AuthenticationForm.resources
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\Test.Forms.CustomForm.resources
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\Test.DialogForm.resources
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\Test.MainForm.resources
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\Test.RegistrationForm.resources
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\Test.RestoreForm.resources
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\Test.SettingsForm.resources
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Dapper.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\DotNetZip.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\PasswordGenerator.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\TPJ.Encrypt.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\ZstdNet.dll
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Dapper.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\DotNetZip.pdb
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\DotNetZip.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV11 — копия\Test\bin\Debug\Syncfusion.Licensing.dll
+D:\GroupProjectV12\Test\bin\Debug\Test.exe.config
+D:\GroupProjectV12\Test\bin\Debug\Test.exe
+D:\GroupProjectV12\Test\bin\Debug\Test.pdb
+D:\GroupProjectV12\Test\bin\Debug\BouncyCastle.Crypto.dll
+D:\GroupProjectV12\Test\bin\Debug\Dapper.dll
+D:\GroupProjectV12\Test\bin\Debug\DevExpress.Data.v21.2.dll
+D:\GroupProjectV12\Test\bin\Debug\DotNetZip.dll
+D:\GroupProjectV12\Test\bin\Debug\Google.Protobuf.dll
+D:\GroupProjectV12\Test\bin\Debug\K4os.Compression.LZ4.dll
+D:\GroupProjectV12\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GroupProjectV12\Test\bin\Debug\K4os.Hash.xxHash.dll
+D:\GroupProjectV12\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GroupProjectV12\Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\GroupProjectV12\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GroupProjectV12\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\GroupProjectV12\Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\GroupProjectV12\Test\bin\Debug\MySql.Data.dll
+D:\GroupProjectV12\Test\bin\Debug\PasswordGenerator.dll
+D:\GroupProjectV12\Test\bin\Debug\Syncfusion.Licensing.dll
+D:\GroupProjectV12\Test\bin\Debug\System.Buffers.dll
+D:\GroupProjectV12\Test\bin\Debug\System.ComponentModel.Annotations.dll
+D:\GroupProjectV12\Test\bin\Debug\System.Memory.dll
+D:\GroupProjectV12\Test\bin\Debug\System.Numerics.Vectors.dll
+D:\GroupProjectV12\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GroupProjectV12\Test\bin\Debug\TPJ.Encrypt.dll
+D:\GroupProjectV12\Test\bin\Debug\Ubiety.Dns.Core.dll
+D:\GroupProjectV12\Test\bin\Debug\ZstdNet.dll
+D:\GroupProjectV12\Test\bin\Debug\Dapper.xml
+D:\GroupProjectV12\Test\bin\Debug\DevExpress.Data.v21.2.xml
+D:\GroupProjectV12\Test\bin\Debug\DotNetZip.pdb
+D:\GroupProjectV12\Test\bin\Debug\DotNetZip.xml
+D:\GroupProjectV12\Test\bin\Debug\Google.Protobuf.pdb
+D:\GroupProjectV12\Test\bin\Debug\Google.Protobuf.xml
+D:\GroupProjectV12\Test\bin\Debug\K4os.Compression.LZ4.xml
+D:\GroupProjectV12\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GroupProjectV12\Test\bin\Debug\K4os.Hash.xxHash.xml
+D:\GroupProjectV12\Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\GroupProjectV12\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\GroupProjectV12\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\GroupProjectV12\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\GroupProjectV12\Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\GroupProjectV12\Test\bin\Debug\MySql.Data.xml
+D:\GroupProjectV12\Test\bin\Debug\System.Buffers.xml
+D:\GroupProjectV12\Test\bin\Debug\System.Memory.xml
+D:\GroupProjectV12\Test\bin\Debug\System.Numerics.Vectors.xml
+D:\GroupProjectV12\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GroupProjectV12\Test\obj\Debug\Test.AdminForm.resources
+D:\GroupProjectV12\Test\obj\Debug\Test.AuthorizationForm.resources
+D:\GroupProjectV12\Test\obj\Debug\Test.AuthenticationForm.resources
+D:\GroupProjectV12\Test\obj\Debug\Test.Forms.CustomForm.resources
+D:\GroupProjectV12\Test\obj\Debug\Test.DialogForm.resources
+D:\GroupProjectV12\Test\obj\Debug\Test.MainForm.resources
+D:\GroupProjectV12\Test\obj\Debug\Test.Properties.Resources.resources
+D:\GroupProjectV12\Test\obj\Debug\Test.RegistrationForm.resources
+D:\GroupProjectV12\Test\obj\Debug\Test.RestoreForm.resources
+D:\GroupProjectV12\Test\obj\Debug\Test.SettingsForm.resources
+D:\GroupProjectV12\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+D:\GroupProjectV12\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+D:\GroupProjectV12\Test\obj\Debug\Test.exe
+D:\GroupProjectV12\Test\obj\Debug\Test.pdb
+D:\GroupProjectV12\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Dapper.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\DotNetZip.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\PasswordGenerator.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\TPJ.Encrypt.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\ZstdNet.dll
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Dapper.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\DotNetZip.pdb
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\DotNetZip.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\Test.AdminForm.resources
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\Test.AuthorizationForm.resources
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\Test.AuthenticationForm.resources
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\Test.Forms.CustomForm.resources
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\Test.DialogForm.resources
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\Test.MainForm.resources
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\Test.RegistrationForm.resources
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\Test.RestoreForm.resources
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\Test.SettingsForm.resources
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV13\Test\obj\Debug\Test.pdb
+D:\GroupProjectV14\Test\bin\Debug\Test.exe.config
+D:\GroupProjectV14\Test\bin\Debug\Test.exe
+D:\GroupProjectV14\Test\bin\Debug\Test.pdb
+D:\GroupProjectV14\Test\bin\Debug\BouncyCastle.Crypto.dll
+D:\GroupProjectV14\Test\bin\Debug\Dapper.dll
+D:\GroupProjectV14\Test\bin\Debug\DevExpress.Data.v21.2.dll
+D:\GroupProjectV14\Test\bin\Debug\DotNetZip.dll
+D:\GroupProjectV14\Test\bin\Debug\Google.Protobuf.dll
+D:\GroupProjectV14\Test\bin\Debug\K4os.Compression.LZ4.dll
+D:\GroupProjectV14\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GroupProjectV14\Test\bin\Debug\K4os.Hash.xxHash.dll
+D:\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\GroupProjectV14\Test\bin\Debug\MySql.Data.dll
+D:\GroupProjectV14\Test\bin\Debug\PasswordGenerator.dll
+D:\GroupProjectV14\Test\bin\Debug\Syncfusion.Licensing.dll
+D:\GroupProjectV14\Test\bin\Debug\System.Buffers.dll
+D:\GroupProjectV14\Test\bin\Debug\System.ComponentModel.Annotations.dll
+D:\GroupProjectV14\Test\bin\Debug\System.Memory.dll
+D:\GroupProjectV14\Test\bin\Debug\System.Numerics.Vectors.dll
+D:\GroupProjectV14\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GroupProjectV14\Test\bin\Debug\TPJ.Encrypt.dll
+D:\GroupProjectV14\Test\bin\Debug\Ubiety.Dns.Core.dll
+D:\GroupProjectV14\Test\bin\Debug\ZstdNet.dll
+D:\GroupProjectV14\Test\bin\Debug\Dapper.xml
+D:\GroupProjectV14\Test\bin\Debug\DevExpress.Data.v21.2.xml
+D:\GroupProjectV14\Test\bin\Debug\DotNetZip.pdb
+D:\GroupProjectV14\Test\bin\Debug\DotNetZip.xml
+D:\GroupProjectV14\Test\bin\Debug\Google.Protobuf.pdb
+D:\GroupProjectV14\Test\bin\Debug\Google.Protobuf.xml
+D:\GroupProjectV14\Test\bin\Debug\K4os.Compression.LZ4.xml
+D:\GroupProjectV14\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GroupProjectV14\Test\bin\Debug\K4os.Hash.xxHash.xml
+D:\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\GroupProjectV14\Test\bin\Debug\MySql.Data.xml
+D:\GroupProjectV14\Test\bin\Debug\System.Buffers.xml
+D:\GroupProjectV14\Test\bin\Debug\System.Memory.xml
+D:\GroupProjectV14\Test\bin\Debug\System.Numerics.Vectors.xml
+D:\GroupProjectV14\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GroupProjectV14\Test\obj\Debug\Test.AdminForm.resources
+D:\GroupProjectV14\Test\obj\Debug\Test.AuthorizationForm.resources
+D:\GroupProjectV14\Test\obj\Debug\Test.AuthenticationForm.resources
+D:\GroupProjectV14\Test\obj\Debug\Test.Forms.CustomForm.resources
+D:\GroupProjectV14\Test\obj\Debug\Test.DialogForm.resources
+D:\GroupProjectV14\Test\obj\Debug\Test.MainForm.resources
+D:\GroupProjectV14\Test\obj\Debug\Test.Properties.Resources.resources
+D:\GroupProjectV14\Test\obj\Debug\Test.RegistrationForm.resources
+D:\GroupProjectV14\Test\obj\Debug\Test.RestoreForm.resources
+D:\GroupProjectV14\Test\obj\Debug\Test.SettingsForm.resources
+D:\GroupProjectV14\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+D:\GroupProjectV14\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+D:\GroupProjectV14\Test\obj\Debug\Test.exe
+D:\GroupProjectV14\Test\obj\Debug\Test.pdb
+D:\GroupProjectV14\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.Forms.AcceptEmailForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.AdminForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.AuthorizationForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.AuthenticationForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.Forms.CustomForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.DialogForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.MainForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.RegistrationForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.RestoreForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.SettingsForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Dapper.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\DotNetZip.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\PasswordGenerator.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\TPJ.Encrypt.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\ZstdNet.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Dapper.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\DotNetZip.pdb
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\DotNetZip.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV14\Test\obj\Debug\CloudStoragePOU.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.AdminForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.AuthorizationForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.AuthenticationForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.Forms.ChangePasswordForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.Forms.CustomForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.DialogForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.MainForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.RegistrationForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.RestoreForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.SettingsForm.resources
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Dapper.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\DotNetZip.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\FluentFTP.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\PasswordGenerator.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\TPJ.Encrypt.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\ZstdNet.dll
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Dapper.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\DotNetZip.pdb
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\DotNetZip.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\FluentFTP.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\CloudStoragePOU.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\GroupProjectV15\GroupProjectV15\Test\obj\Debug\Test.Forms.InfoForm.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Test.exe.config
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Test.pdb
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Dapper.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\DotNetZip.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\FluentFTP.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\PasswordGenerator.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\TPJ.Encrypt.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\ZstdNet.dll
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Dapper.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\DotNetZip.pdb
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\DotNetZip.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\FluentFTP.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.AdminForm.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.AuthorizationForm.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.AuthenticationForm.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.Forms.ChangePasswordForm.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.Forms.CustomForm.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.DialogForm.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.Forms.InfoForm.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.MainForm.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.RegistrationForm.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.RestoreForm.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.SettingsForm.resources
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\CloudStoragePOU.csproj.CopyComplete
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.exe
+C:\Users\User\Downloads\GroupProjectV16\GroupProjectV15\Test\obj\Debug\Test.pdb
+D:\GroupProjectV15\Test\bin\Debug\Test.exe.config
+D:\GroupProjectV15\Test\bin\Debug\Test.exe
+D:\GroupProjectV15\Test\bin\Debug\Test.pdb
+D:\GroupProjectV15\Test\bin\Debug\BouncyCastle.Crypto.dll
+D:\GroupProjectV15\Test\bin\Debug\Dapper.dll
+D:\GroupProjectV15\Test\bin\Debug\DevExpress.Data.v21.2.dll
+D:\GroupProjectV15\Test\bin\Debug\DotNetZip.dll
+D:\GroupProjectV15\Test\bin\Debug\FluentFTP.dll
+D:\GroupProjectV15\Test\bin\Debug\Google.Protobuf.dll
+D:\GroupProjectV15\Test\bin\Debug\K4os.Compression.LZ4.dll
+D:\GroupProjectV15\Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GroupProjectV15\Test\bin\Debug\K4os.Hash.xxHash.dll
+D:\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\GroupProjectV15\Test\bin\Debug\MySql.Data.dll
+D:\GroupProjectV15\Test\bin\Debug\PasswordGenerator.dll
+D:\GroupProjectV15\Test\bin\Debug\Syncfusion.Licensing.dll
+D:\GroupProjectV15\Test\bin\Debug\System.Buffers.dll
+D:\GroupProjectV15\Test\bin\Debug\System.ComponentModel.Annotations.dll
+D:\GroupProjectV15\Test\bin\Debug\System.Memory.dll
+D:\GroupProjectV15\Test\bin\Debug\System.Numerics.Vectors.dll
+D:\GroupProjectV15\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GroupProjectV15\Test\bin\Debug\TPJ.Encrypt.dll
+D:\GroupProjectV15\Test\bin\Debug\Ubiety.Dns.Core.dll
+D:\GroupProjectV15\Test\bin\Debug\ZstdNet.dll
+D:\GroupProjectV15\Test\bin\Debug\Dapper.xml
+D:\GroupProjectV15\Test\bin\Debug\DevExpress.Data.v21.2.xml
+D:\GroupProjectV15\Test\bin\Debug\DotNetZip.pdb
+D:\GroupProjectV15\Test\bin\Debug\DotNetZip.xml
+D:\GroupProjectV15\Test\bin\Debug\FluentFTP.xml
+D:\GroupProjectV15\Test\bin\Debug\Google.Protobuf.pdb
+D:\GroupProjectV15\Test\bin\Debug\Google.Protobuf.xml
+D:\GroupProjectV15\Test\bin\Debug\K4os.Compression.LZ4.xml
+D:\GroupProjectV15\Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GroupProjectV15\Test\bin\Debug\K4os.Hash.xxHash.xml
+D:\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\GroupProjectV15\Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\GroupProjectV15\Test\bin\Debug\MySql.Data.xml
+D:\GroupProjectV15\Test\bin\Debug\System.Buffers.xml
+D:\GroupProjectV15\Test\bin\Debug\System.Memory.xml
+D:\GroupProjectV15\Test\bin\Debug\System.Numerics.Vectors.xml
+D:\GroupProjectV15\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GroupProjectV15\Test\obj\Debug\CloudStoragePOU.csproj.AssemblyReference.cache
+D:\GroupProjectV15\Test\obj\Debug\Test.AdminForm.resources
+D:\GroupProjectV15\Test\obj\Debug\Test.AuthorizationForm.resources
+D:\GroupProjectV15\Test\obj\Debug\Test.AuthenticationForm.resources
+D:\GroupProjectV15\Test\obj\Debug\Test.Forms.ChangePasswordForm.resources
+D:\GroupProjectV15\Test\obj\Debug\Test.Forms.CustomForm.resources
+D:\GroupProjectV15\Test\obj\Debug\Test.DialogForm.resources
+D:\GroupProjectV15\Test\obj\Debug\Test.Forms.InfoForm.resources
+D:\GroupProjectV15\Test\obj\Debug\Test.MainForm.resources
+D:\GroupProjectV15\Test\obj\Debug\Test.Properties.Resources.resources
+D:\GroupProjectV15\Test\obj\Debug\Test.RegistrationForm.resources
+D:\GroupProjectV15\Test\obj\Debug\Test.RestoreForm.resources
+D:\GroupProjectV15\Test\obj\Debug\Test.SettingsForm.resources
+D:\GroupProjectV15\Test\obj\Debug\CloudStoragePOU.csproj.GenerateResource.cache
+D:\GroupProjectV15\Test\obj\Debug\CloudStoragePOU.csproj.CoreCompileInputs.cache
+D:\GroupProjectV15\Test\obj\Debug\Test.exe
+D:\GroupProjectV15\Test\obj\Debug\Test.pdb
